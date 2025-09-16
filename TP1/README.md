@@ -1,6 +1,9 @@
+Perfil:
+<img src="./ImagemPLC.jpg" alt="Imagem PLC" width="150">
+
 
 [Resposta da Tarefa](./RespostadaTarefa)
 
 
 
-<img src="./ImagemPLC.jpg" alt="Imagem PLC" width="100">
+
