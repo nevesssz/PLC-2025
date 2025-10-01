@@ -1,0 +1,11 @@
+# Este é o título 
+*sempre quis ser como voces* meus caros amigos
+**nao sei** mas é capaz de dar certo
+ele gosta destes desportos:
+1. futebol
+2. natacao
+3. basquete 
+## este e o titulo
+Como se vê na imagem seguinte: ![imagem dum coelho](http://www.coellho.com)
+como pode ser consultado em [página da UC](http://www.uc.pt)
+*ajuda*
