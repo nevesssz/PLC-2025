@@ -8,6 +8,7 @@ PG60425
 <img src="./ImagemPLC_copy.jpg" alt="Imagem PLC" width="175">
 
 Explicação do Programa:
+
 Neste programa, procurei começar por definir todas as mudanças necessárias serem feitas a partir de expressões regulares, de modo a 
 conseguir detetar todas as ocorrências mais rápido.
 Uma vez encontradas essas ocorrências, criei um código para fazer as devidas substituições, com atenção na substituição das lista numeradas
