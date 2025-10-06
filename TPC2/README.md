@@ -15,4 +15,5 @@ Uma vez encontradas essas ocorrências, criei um código para fazer as devidas s
 que deu mais trabalho pelo facto de ser mais difícil detetar quando elas começavam e quando acabavam. 
 A parte da substituição dos cabecalhos também implicou cuidado extra, sendo necessário criar uma variável para armazenar o numero de 
 cardinais para, ao converter para HTML, aparecer o número devido de cardinais.
+
 [Resposta da Tarefa](./RespostadaTarefa.ipynb)
