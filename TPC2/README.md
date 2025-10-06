@@ -7,5 +7,6 @@ PG60425
 
 <img src="./ImagemPLC_copy.jpg" alt="Imagem PLC" width="175">
 
+#Explicação do Programa:
 
 [Resposta da Tarefa](./RespostadaTarefa.ipynb)
