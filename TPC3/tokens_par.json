@@ -1,0 +1,47 @@
+[
+    {
+        "id": "S",
+        "expreg": "select"
+    },
+    {
+        "id" : "LIMI",
+        "expreg": "LIMIT \\d{4}"
+    },
+
+    {
+        "id": "W",
+        "expreg": "where"
+    },
+    {
+        "id" : "START",
+        "expreg": "\\{"
+    },
+    {
+        "id": "END", 
+        "expreg":"\\}"
+    },
+    {
+        "id": "VAR",
+        "expreg": "\\?[A-Za-z_]\\w*"
+    },
+    {
+        "id": "ID",
+        "expreg": "\\w+:\\w+(?:\\s+\"[^\"]+\")?(?:@\\w+)?"
+    },
+    {
+        "id": "terminador",
+        "expreg": "\\."
+    },
+    {
+        "id": "SKIP",
+        "expreg": "[ \\t]"
+    },
+    {
+        "id": "NEWLINE",
+        "expreg": "\\n"
+    },
+    {
+        "id": "ERRO",
+        "expreg": "."
+    }
+]
