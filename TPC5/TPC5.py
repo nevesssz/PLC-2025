@@ -3,14 +3,6 @@ import ply.lex as lex
 import json
 import datetime as datetime
 
-tokens:{
-    "LISTAR",
-    "MOEDA",
-    "SAIR",
-    "SELECIONAR"
-}
-
-
 def verificar_data():
     data = datetime.datetime.now().strftime("%Y-%m-%d")
     padrao = re.compile(r'^\d{4}-\d{2}-\d{2}$')
